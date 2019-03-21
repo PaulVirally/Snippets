@@ -245,7 +245,7 @@
 	"Display Math Mode": {
 		"prefix": "dm",
 		"body": [
-			"\\[$0\\" // the \] gets placed automatically
+			"\\[$0\\]"
 		]
 	},
 
