@@ -236,16 +236,16 @@
 	},
 
 	"Math Mode": {
-		"prefix": "\\9",
+		"prefix": "mm",
 		"body": [
 			"\\($0\\)"
 		]
 	},
 
-	"Center Math Mode": {
-		"prefix": "\\[",
+	"Display Math Mode": {
+		"prefix": "dm",
 		"body": [
-			"\\[$0\\"
+			"\\[$0\\" // the \] gets placed automatically
 		]
 	},
 
